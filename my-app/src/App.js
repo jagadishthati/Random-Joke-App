@@ -18,7 +18,7 @@ function App( ) {
   
   return(
     
-    <div className='flex flex-col justify-center items-center  border-green-400 border-2 p-4 bg-black w-2/4  rounded-2xl' >
+    <div className='flex flex-col justify-center items-center  border-green-400 border-2 p-4 bg-black w-3/4  rounded-2xl sticky  h-1/2 gap-y-2 ' >
 
 <Card />
 <Textarea jokes = {jokes}/>
